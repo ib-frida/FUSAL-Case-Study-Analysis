@@ -15,7 +15,7 @@ This report is an analysis of malnutrition data for various communities in El Sa
 
 ## 1. Patterns Observed in the Data
 
-![alt text](image-2.png)
+![alt text](ib-frida/FUSAL-Case-Study-Analysis/graph-bar.png)
 
 #### 1.1. **Guaymango**
 
@@ -37,7 +37,7 @@ San Julián shows **stable but low malnutrition rates** throughout the years, wi
 
 Cluster Morazán demonstrates **gradual improvement** in malnutrition, with the most noticeable decline occurring in 2017. This suggests a slow but steady progression toward reducing malnutrition, possibly due to ongoing intervention programs that have had a cumulative effect over time.
 
-![alt text](image-4.png)
+![alt text](ib-frida/FUSAL-Case-Study-Analysis/heatmap.png)
 
 ### Patterns Summary
 
@@ -79,7 +79,7 @@ To further interpret these patterns and identify the factors influencing malnutr
 
 ## 4. Conclusions Based on the Data
 
-![alt text](image-5.png)
+![alt text](ib-frida/FUSAL-Case-Study-Analysis/linear-graph.png)
 
 ### 4.1. **Guaymango**
 
