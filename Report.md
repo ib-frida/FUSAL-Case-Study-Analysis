@@ -15,7 +15,7 @@ This report is an analysis of malnutrition data for various communities in El Sa
 
 ## 1. Patterns Observed in the Data
 
-![alt text][imageRef]
+![Bar graph showing malnutrition rates in various communities](ib-frida/FUSAL-Case-Study-Analysis/graph-bar.png)
 
 #### 1.1. **Guaymango**
 
@@ -37,7 +37,7 @@ San Julián shows **stable but low malnutrition rates** throughout the years, wi
 
 Cluster Morazán demonstrates **gradual improvement** in malnutrition, with the most noticeable decline occurring in 2017. This suggests a slow but steady progression toward reducing malnutrition, possibly due to ongoing intervention programs that have had a cumulative effect over time.
 
-![alt text][imagePath]
+![Heat map showing malnutrition data](ib-frida/FUSAL-Case-Study-Analysis/heatmap.png)
 
 ### Patterns Summary
 
@@ -79,7 +79,7 @@ To further interpret these patterns and identify the factors influencing malnutr
 
 ## 4. Conclusions Based on the Data
 
-![alt text][imagePath]
+![Linear graph showing malnutrition trends](ib-frida/FUSAL-Case-Study-Analysis/linear-graph.png)
 
 ### 4.1. **Guaymango**
 
@@ -114,7 +114,3 @@ The gradual improvement in Cluster Morazán highlights the **long-term benefits*
 -   **Sustain and scale effective interventions**: For communities showing positive trends, such as Apaneca, Ataco, and Cluster Morazán, continued support and scaling of successful interventions should be prioritized.
 -   **Strengthen community engagement and adaptability**: Ensure that interventions are adaptable to changing community needs and that community members are actively involved in the planning and execution of programs to promote sustainability.
 -   **Develop targeted strategies for high-risk communities**: For communities like Guaymango, develop long-term, multi-faceted approaches that address structural barriers to reducing malnutrition.
-
-[imagePath]: ib-frida/FUSAL-Case-Study-Analysis/linear-graph.png
-[imagePath]: ib-frida/FUSAL-Case-Study-Analysis/heatmap.png
-[imageRef]: ib-frida/FUSAL-Case-Study-Analysis/graph-bar.png
