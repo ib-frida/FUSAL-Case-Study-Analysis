@@ -37,9 +37,9 @@ San Julián shows **stable but low malnutrition rates** throughout the years, wi
 
 Cluster Morazán demonstrates **gradual improvement** in malnutrition, with the most noticeable decline occurring in 2017. This suggests a slow but steady progression toward reducing malnutrition, possibly due to ongoing intervention programs that have had a cumulative effect over time.
 
-![Heat map showing malnutrition data](https://github.com/ib-frida/FUSAL-Case-Study-Analysis/blob/ec495bfbe0e354977c79d66385772319c1af3ef8/heatmap.png)
-
 ### Patterns Summary
+
+![Heat map showing malnutrition data](https://github.com/ib-frida/FUSAL-Case-Study-Analysis/blob/ec495bfbe0e354977c79d66385772319c1af3ef8/heatmap.png)
 
 -   **High malnutrition** and fluctuating rates in **Guaymango** and **Chiltiupan** indicate challenges with sustaining improvements.
 -   **Apaneca, Ataco, and San Julián** show positive or stable trends, suggesting effective interventions.
@@ -100,17 +100,3 @@ San Julián’s stable malnutrition rates indicate that **effective systems** ar
 ### 4.5. **Cluster Morazán**
 
 The gradual improvement in Cluster Morazán highlights the **long-term benefits** of sustained interventions. Focusing on refining and scaling successful programs could accelerate the decline in malnutrition rates.
-
-## 5. Recommendations
-
-### 5.1. **Short-Term Recommendations**
-
--   **Investigate Guaymango’s 2015 success**: A focused investigation into the interventions and external factors that contributed to the sharp decline in malnutrition in 2015 could provide insights for future strategies.
--   **Reassess interventions in Chiltiupan**: Conduct a review of interventions and their long-term sustainability in Chiltiupan to address the fluctuations in malnutrition rates.
--   **Leverage success stories from Apaneca and Ataco**: Study the interventions in Apaneca and Ataco and identify key components that can be replicated in communities facing higher malnutrition rates.
-
-### 5.2. **Long-Term Recommendations**
-
--   **Sustain and scale effective interventions**: For communities showing positive trends, such as Apaneca, Ataco, and Cluster Morazán, continued support and scaling of successful interventions should be prioritized.
--   **Strengthen community engagement and adaptability**: Ensure that interventions are adaptable to changing community needs and that community members are actively involved in the planning and execution of programs to promote sustainability.
--   **Develop targeted strategies for high-risk communities**: For communities like Guaymango, develop long-term, multi-faceted approaches that address structural barriers to reducing malnutrition.
