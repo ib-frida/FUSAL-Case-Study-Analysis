@@ -34,7 +34,7 @@ Key findings from the analysis include:
 Further insights and recommendations for future action are detailed in the `analysis_notebook.ipynb`.
 
 ### Sample Visualization
-![alt text](image-2.png)
+![alt text](image.png)
 
 ### Recommendations
 Based on the analysis:

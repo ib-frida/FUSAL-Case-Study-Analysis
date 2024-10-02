@@ -1,4 +1,3 @@
-﻿
 # FUSAL Malnutrition Case Study: Data Analysis Report
 
 ### Overview
