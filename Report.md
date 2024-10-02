@@ -15,6 +15,8 @@ This report is an analysis of malnutrition data for various communities in El Sa
 
 ## 1. Patterns Observed in the Data
 
+![alt text](image-2.png)
+
 #### 1.1. **Guaymango**
 
 Guaymango shows consistently **higher levels of chronic malnutrition** across all years, with a significant spike in 2014, where the rate surpassed 40%. After a sharp decline in 2015 to about 14%, malnutrition rates began to rise again, suggesting that while interventions in 2015 were initially effective, they were not sustainable over time.
@@ -34,6 +36,8 @@ San Julián shows **stable but low malnutrition rates** throughout the years, wi
 #### 1.5. **Cluster Morazán**
 
 Cluster Morazán demonstrates **gradual improvement** in malnutrition, with the most noticeable decline occurring in 2017. This suggests a slow but steady progression toward reducing malnutrition, possibly due to ongoing intervention programs that have had a cumulative effect over time.
+
+![alt text](image-4.png)
 
 ### Patterns Summary
 
@@ -74,6 +78,8 @@ To further interpret these patterns and identify the factors influencing malnutr
 -   Could these strategies be **replicated** in other communities to achieve similar results?
 
 ## 4. Conclusions Based on the Data
+
+![alt text](image-5.png)
 
 ### 4.1. **Guaymango**
 
