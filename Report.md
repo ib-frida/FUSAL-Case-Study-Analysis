@@ -33,7 +33,7 @@ Both Apaneca and Ataco present a **positive trend** of declining malnutrition ra
 
 San Julián shows **stable but low malnutrition rates** throughout the years, with only a slight decrease in 2015. The rates are among the lowest in the dataset, indicating that this community may have consistently effective nutrition and health interventions in place.
 
-#### 1.5. **Cluster Morazán**
+#### **Cluster Morazán**
 
 Cluster Morazán demonstrates **gradual improvement** in malnutrition, with the most noticeable decline occurring in 2017. This suggests a slow but steady progression toward reducing malnutrition, possibly due to ongoing intervention programs that have had a cumulative effect over time.
 
