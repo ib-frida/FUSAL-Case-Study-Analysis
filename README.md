@@ -34,7 +34,7 @@ Key findings from the analysis include:
 Further insights and recommendations for future action are detailed in the `analysis_notebook.ipynb`.
 
 ### Sample Visualization
-![Bar graph showing malnutrition rates](ib-frida/FUSAL-Case-Study-Analysis/graph-bar.png)
+![Bar graph showing malnutrition rates](https://github.com/ib-frida/FUSAL-Case-Study-Analysis/blob/a61d23b5ad8b7b99b01039157a2df127bae31f3a/graph-bar.png)
 
 ### Recommendations
 Based on the analysis:
