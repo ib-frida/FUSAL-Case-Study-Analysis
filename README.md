@@ -36,10 +36,6 @@ Further insights and recommendations for future action are detailed in the `anal
 ### Sample Visualization
 ![Bar graph showing malnutrition rates](https://github.com/ib-frida/FUSAL-Case-Study-Analysis/blob/a61d23b5ad8b7b99b01039157a2df127bae31f3a/graph-bar.png)
 
-### Recommendations
-Based on the analysis:
-- Further investigation into the interventions in **Guaymango** and **Chiltiupan** is recommended.
-- Replication of successful strategies from **Apaneca** and **Ataco** to other communities may help improve malnutrition rates.
 
 ## License
 
