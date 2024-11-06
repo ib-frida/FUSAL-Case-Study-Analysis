@@ -31,7 +31,7 @@ Key findings from the analysis include:
 - **Chiltiupan** presents significant fluctuations, with only temporary improvements between 2014 and 2017.
 - **Apaneca** and **Ataco** show continuous declines in malnutrition rates, likely due to successful interventions.
   
-Further insights and recommendations for future action are detailed in the `analysis_notebook.ipynb`.
+Further insights and recommendations for future action are detailed in the `Report.md`.
 
 ### Sample Visualization
 ![Bar graph showing malnutrition rates](https://github.com/ib-frida/FUSAL-Case-Study-Analysis/blob/a61d23b5ad8b7b99b01039157a2df127bae31f3a/graph-bar.png)
